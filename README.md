@@ -16,8 +16,8 @@ In this project, I applied TF-IDF to clean and tokenize and  vectorized the text
 * NLTK
 * Levenshtei
 
-Entity Resolution (ER) reference: 
-Kejriwal, M., Knoblock, C. A., & Szekely, P. (2021). Knowledge Graphs: Fundamentals, Techniques, and Applications. The MIT Press. [Hardcover ISBN: 9780262045094]. 
+Entity Resolution (ER) reference: <br>
+Kejriwal, M., Knoblock, C. A., & Szekely, P. (2021). Knowledge Graphs: Fundamentals, Techniques, and Applications (Adaptive Computation and Machine Learning series). The MIT Press.
 Retrieved from [link](https://mitpress.mit.edu/9780262045094/knowledge-graphs/).
 
 
